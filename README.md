@@ -3,8 +3,6 @@
 ```markdown
 # Avishek Sadhukhan - Portfolio Website
 
-![Website Screenshot](link_to_your_screenshot.png)
-
 Welcome to my GitHub repository for my personal portfolio website. This website is built using HTML, CSS, and JavaScript and serves as a platform to showcase my web development and design projects, skills, and educational background.
 
 ## Features
